@@ -49,3 +49,10 @@ Population growth (2020-2021).
 Population density in 2020.
 GDP per Capita in 2020.
 Population growth percentage (2020-2021).
+## Libraries Used
+- pandas for data manipulation.
+- matplotlib and seaborn for data visualization.
+- zipfile and os for file handling.
+## Acknowledgments
+- World Bank: For providing the population dataset.
+- US Census Bureau: For providing the US Census data.
